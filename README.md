@@ -1,4 +1,4 @@
-👋 Hi, I'm Jerry Rawlings
+👋 Hi, I'm Jerry RAgyei
 💻 BSc Computer Science & Information Student | Aspiring Software Developer
 Welcome to my GitHub!
 I’m passionate about building efficient, user-centered software solutions and continuously learning new technologies to strengthen my skills in full-stack development.
