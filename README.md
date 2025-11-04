@@ -21,14 +21,17 @@ HTML | CSS | JavaScript | Python (beginner)
 Tools & Technologies:
 Git | GitHub | Bash | VS Code | Chrome DevTools
 
+Frameworks
+Tailwindcss | React
+
 Areas of Interest:
 Frontend Development | System Administration | Open Source Collaboration
 
 📂 Featured Projects
-Project	Description	Technologies
-Personal Portfolio	A responsive website showcasing my skills and projects.	HTML, CSS, JS
-Landing Page	A modern, mobile-friendly landing page design.	HTML, CSS
-Command Line Utilities	Small Bash-based utilities for automating daily tasks.	Bash, Git
+Project Description Technologies
+Personal Portfolio A responsive website showcasing my skills and projects. HTML, CSS, JS
+Landing Page A modern, mobile-friendly landing page design. HTML, CSS
+Command Line Utilities Small Bash-based utilities for automating daily tasks. Bash, Git
 
 (file:///C:/Users/JERRY%20RAWLINGS/OneDrive/Desktop/myPortfolio/index.html.)
 
